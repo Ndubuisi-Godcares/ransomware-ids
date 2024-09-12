@@ -42,3 +42,7 @@ Or the packages alongside their versions can be saved as a text file with the fi
 The proposed solution involves developing a machine learning-based system that monitors system activities in real-time using tools like Sysmon. By analyzing the data using supervised learning algorithms (Random Forest, SVM, Neural Networks), the system will classify activities as benign or ransomware-related. Upon detecting ransomware, the system will automatically initiate mitigation measures to prevent further damage.
 ![image](https://github.com/user-attachments/assets/3ca08e68-ef06-41f5-9d1f-8a44c32e6f6c)
 
+
+# MLOPS PIPELINE 
+
+![ML workflow1 drawio](https://github.com/user-attachments/assets/66fc173a-1fed-497f-b32a-690b76158eba)
