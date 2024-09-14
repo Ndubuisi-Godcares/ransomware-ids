@@ -39,7 +39,7 @@ Or the packages alongside their versions can be saved as a text file with the fi
 
 
 # Dataset 
-The dataset used for this project is the ISCX2012 dataset porovided by the Cnaadian Institute of Cybersceurity and the dataset acan be gotten from this link. The dataset is for research purpose and should be cited in an research work suppoosedly used. 
+The dataset used for this project is the ISCXIDS2012 (CICIDS) dataset porovided by the Canadian Institute of Cybersceurity and the dataset acan be gotten from this link. The dataset is for research purpose and should be cited in research works that uses the dataset.
 
     https://www.unb.ca/cic/datasets/ids.html
 
