@@ -38,6 +38,12 @@ Or the packages alongside their versions can be saved as a text file with the fi
 - Version Control: Git/GitHub
 
 
+# Dataset 
+The dataset used for this project is the ISCX2012 dataset porovided by the Cnaadian Institute of Cybersceurity and the dataset acan be gotten from this link. The dataset is for research purpose and should be cited in an research work suppoosedly used. 
+
+    https://www.unb.ca/cic/datasets/ids.html
+
+
 # Proposed Methodology
 The proposed solution involves developing a machine learning-based system that monitors system activities in real-time using tools like Sysmon. By analyzing the data using supervised learning algorithms (Random Forest, SVM, Neural Networks), the system will classify activities as benign or ransomware-related. Upon detecting ransomware, the system will automatically initiate mitigation measures to prevent further damage.
 ![image](https://github.com/user-attachments/assets/3ca08e68-ef06-41f5-9d1f-8a44c32e6f6c)
